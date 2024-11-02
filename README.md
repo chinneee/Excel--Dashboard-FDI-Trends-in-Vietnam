@@ -17,7 +17,7 @@ Visit webpage [OpenDevelopmentMekong](https://data.opendevelopmentmekong.net/dat
 - Singapore and South Korea are the top investors in equity capital in Vietnam, highlighting their significant role in the capital investment landscape.
 - Most foreign investors come from Asian countries, reflecting strong regional diplomatic relations.
 - Major developed economies, such as China, the U.S., Japan, and South Korea, have heavily invested in new projects in Vietnam.
-- While the number of new projects increased by 17.1%, the total investment capital in 2022 was lower compared to the previous year, as there were fewer large-scale projects. Source: "Ministry of Planning and Investment - Foreign Investment Agency."
+- *"While the number of new projects increased by 17.1%, the total investment capital in 2022 was lower compared to the previous year, as there were fewer large-scale projects"*. From **Ministry of Planning and Investment - Foreign Investment Agency**.
 <p align="center">
   <img src="images/Correlation.png" alt="FDI Contributions to Vietnam by Partner" />
 </p>
@@ -25,7 +25,7 @@ Visit webpage [OpenDevelopmentMekong](https://data.opendevelopmentmekong.net/dat
 <p align="center"><em>Figure 2: Correlation between Total Capital contribution and Number of capital contribution</em></p>
 
 I used the Spearman correlation test to examine whether there is a two-way correlation between Total Capital Contribution and Number of Capital Contributions. 
-Based on the results, we can confirm that these two features are positively correlated, meaning 'when the Total Capital Contribution is high, the Number of Capital Contributions is also high.'
+Based on the results, we can confirm that these two features are positively correlated, meaning *"when the Total Capital Contribution is high, the Number of Capital Contributions is also high."*
 
 ![FDI Contributions to Vietnam by Province](images/FDI_Country.png)
 
