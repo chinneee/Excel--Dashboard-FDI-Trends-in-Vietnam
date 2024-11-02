@@ -1,15 +1,24 @@
 # FDI Trends in Vietnam in the Period 2021-2022
 ## Context
 The COVID-19 pandemic had a profound impact on the economy of Vietnam and other countries worldwide. I've chosen 2021 and 2022 as comparison points to analyze how foreign direct investment (FDI) trends shifted from the height of the pandemic's effects to the period of reopening and resumption of trade. This comparison aims to uncover how FDI dynamics evolved as Vietnam transitioned from crisis management to economic recovery.
-## Purpose of Analysis:
+## Purpose of Analysis
 
 - To examine investment trends across provinces and industries in Vietnam.
 - To gain a deeper understanding of the core factors driving these trends.
 - To support the Ministry of Planning and Investment, along with the People's Committee, in assessing the current landscape and implementing effective policies to attract capital.
 - To provide an accessible and visually engaging overview of Vietnam's FDI over the years.
-## Data Source:
+## Data Source
 Visit webpage [OpenDevelopmentMekong](https://data.opendevelopmentmekong.net/dataset/fdi-investment-in-vietnam-2015-2022) to review and download datasets.
-## Visualization of Analysis Results:
+- **Description:**
+  - **Number of New Projects:** The total count of newly initiated projects within a specified period.
+  - **Newly Registered Capital (million USD):** The amount of capital (in million USD) that has been newly registered for investment in these projects.
+  - **Adjusted Project Number:** The number of projects that have undergone adjustments or changes in capital.
+  - **Adjusted Capital (million USD):** The revised amount of capital (in million USD) after adjustments are made to the initially registered capital.
+  - **Capital Difference:** The difference between Adjusted Capital and Newly Registered Capital, reflecting any increase or decrease in investment after adjustments.
+  - **Times of Capital Contribution:** The number of instances where capital contributions were made towards projects within the period.
+  - **Capital Contribution Value (million USD):** The total value of capital contributed (in million USD) during the period.
+  - **Year:** The specific year in which the data is recorded.
+## Visualization of Analysis Results
 ![FDI Contributions to Vietnam by Partner](images/FDI_Partner.png)
 <p align="center"><em>Figure 1: FDI Contributions to Vietnam by Partner</em></p>
 
